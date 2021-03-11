@@ -95,14 +95,10 @@
 
 [![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB)
 
-## 微信小程序
+## 外卖红包
 
-为方便用户在手机端访问，可通过 [955WLB](https://github.com/formulahendry/weapp-955-wlb) 微信小程序实时查看 955 公司名单。
+为方便996的同学，更好的羡慕，这里提供了外卖红包/支付宝红包，等福利。
 
-![qr](https://s1.ax1x.com/2020/08/07/ahUfFx.jpg)
+必中：[支付宝红包&外卖红包，每天可以领多次~（饿了么&美团）](https://mp.weixin.qq.com/s/0jD4hl7pl0wFMFJGdITKwg)
 
-## 955 内推
 
-955 公司内推，可以关注“HJ说”公众号：
-
-![qr](https://s2.ax1x.com/2019/05/16/E7vSSJ.jpg)
